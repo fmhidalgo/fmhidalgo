@@ -1,6 +1,5 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
-<!--
 **fmhidalgo/fmhidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Francisco M. Hidalgo
+## IES Iliberis -- Departamento de Informática
+![logo-iliberis](https://github.com/user-attachments/assets/71d727b7-22ae-49dc-8d75-7198134c2456)
